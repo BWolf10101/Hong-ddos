@@ -1,4 +1,4 @@
-# Load Testing Tools (Experimental)
+# Load Testing Tools
 
 Ini merupakan tools yang di gunakan untuk melakukan penetrasi pada serangan bot bersekala besar tools atau pada script ini hanya pengembangan sederhana dan dapat di gunakan untuk pengujian. Tools ini dapat di jalankan pada bash asalkan semua library sudah terinstall dengan baik maka tools dapat di jalankan. tools ddosbetaspekpok di kembang oleh saya yang berkolaborasi dengan AI untuk membuat uji penetrasi yang terinspirasi dari k6.
 
